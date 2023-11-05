@@ -1,0 +1,29 @@
+#subBtn{
+    background-color: bisque;
+
+}
+#subBtn:hover{
+    background-color: burlywood;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+#deleteBtn{
+    background-color: bisque;
+}
+#deleteBtn:hover{
+    background-color: burlywood;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+#editBtn{
+    background-color: bisque;
+}
+#editBtn:hover{
+    background-color: burlywood;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+hr{
+    width: 30%;
+    margin-left: -15px;
+}
